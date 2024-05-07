@@ -335,3 +335,35 @@
 2024-05-07 18:39:38,813 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-07 18:39:38,831 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-07 18:39:38,836 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRINGBOOT-SECURITY\src\test\resources
+2024-05-07 18:43:28,813 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-07 18:43:29,208 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.web:SPRINGBOOT-SECURITY:0.0.1-SNAPSHOT @ C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRINGBOOT-SECURITY\pom.xml.
+2024-05-07 18:43:29,607 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRINGBOOT-SECURITY/src/main/java
+2024-05-07 18:43:29,608 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/main/resources
+2024-05-07 18:43:29,614 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/main/resources
+2024-05-07 18:43:29,621 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRINGBOOT-SECURITY/src/test/java
+2024-05-07 18:43:29,623 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/test/resources
+2024-05-07 18:43:30,313 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.web:SPRING-VIEW-TO-VIEW-1:0.0.1-SNAPSHOT @ C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRING-VIEW-TO-VIEW-1\pom.xml.
+2024-05-07 18:43:30,778 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 18:43:30,794 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 18:43:30,797 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRING-VIEW-TO-VIEW-1\src\test\resources
+2024-05-07 18:43:30,850 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2024-05-07 18:43:30,852 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-07 18:43:31,358 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.web:SPRING-VIEW-TO-VIEW-1:0.0.1-SNAPSHOT @ C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRING-VIEW-TO-VIEW-1\pom.xml.
+2024-05-07 18:43:31,569 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.web:SPRINGBOOT-SECURITY:0.0.1-SNAPSHOT @ C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRINGBOOT-SECURITY\pom.xml.
+2024-05-07 18:43:31,919 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRING-VIEW-TO-VIEW-1/src/main/java
+2024-05-07 18:43:31,921 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRING-VIEW-TO-VIEW-1/src/main/resources
+2024-05-07 18:43:31,926 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRING-VIEW-TO-VIEW-1/src/main/resources
+2024-05-07 18:43:31,940 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRING-VIEW-TO-VIEW-1/src/test/java
+2024-05-07 18:43:31,941 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRING-VIEW-TO-VIEW-1/src/test/resources
+2024-05-07 18:43:32,436 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRINGBOOT-SECURITY/src/main/java
+2024-05-07 18:43:32,436 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/main/resources
+2024-05-07 18:43:32,438 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/main/resources
+2024-05-07 18:43:32,443 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPRINGBOOT-SECURITY/src/test/java
+2024-05-07 18:43:32,443 [Worker-12: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPRINGBOOT-SECURITY/src/test/resources
+2024-05-07 18:43:32,674 [Worker-12: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-05-07 18:43:33,029 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 18:43:33,043 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 18:43:33,047 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRING-VIEW-TO-VIEW-1\src\test\resources
+2024-05-07 18:43:33,211 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-07 18:43:33,223 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-07 18:43:33,226 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\banot\Downloads\SBGITPROJECTS-main\SBGITPROJECTS-main\SPRINGBOOT-SECURITY\src\test\resources
