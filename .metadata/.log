@@ -416,3 +416,99 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:02:05.909
 !MESSAGE Classpath changed for project: SPRING-FULL-NAME-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:48.222
+!MESSAGE Classpath changed for project: ARRAY_EX_1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:48.587
+!MESSAGE Classpath changed for project: ARRAY_EX_1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:49.964
+!MESSAGE Classpath changed for project: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:50.265
+!MESSAGE Classpath changed for project: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:50.266
+!MESSAGE Boot project ADDED: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:50.340
+!MESSAGE Classpath changed for project: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:53.321
+!MESSAGE Classpath changed for project: LMSDBANKSPRINGBOOTCRUD-09
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:53.579
+!MESSAGE Classpath changed for project: LMSDBANKSPRINGBOOTCRUD-09
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:53.579
+!MESSAGE Boot project ADDED: LMSDBANKSPRINGBOOTCRUD-09
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:53.836
+!MESSAGE Classpath changed for project: LMSDBANKSPRINGBOOTCRUD-09
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:54.551
+!MESSAGE Classpath changed for project: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:12:54.615
+!MESSAGE Classpath changed for project: REST_ElectricityBill_02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:14:34.361
+!MESSAGE Classpath changed for project: SPRING-WELCOME-APP-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:14:34.457
+!MESSAGE Classpath changed for project: SPRING-WELCOME-APP-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:14:34.457
+!MESSAGE Boot project ADDED: SPRING-WELCOME-APP-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:14:34.538
+!MESSAGE Classpath changed for project: SPRING-WELCOME-APP-2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:15:38.312
+!MESSAGE Classpath changed for project: SPRING-MULTIPLE-VIEW-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:15:38.449
+!MESSAGE Classpath changed for project: SPRING-MULTIPLE-VIEW-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:15:38.452
+!MESSAGE Boot project ADDED: SPRING-MULTIPLE-VIEW-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:15:38.540
+!MESSAGE Classpath changed for project: SPRING-MULTIPLE-VIEW-3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:16:23.491
+!MESSAGE Classpath changed for project: SPRING-BOOT-MVC-PROJECT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:16:23.701
+!MESSAGE Classpath changed for project: SPRING-BOOT-MVC-PROJECT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:16:23.701
+!MESSAGE Boot project ADDED: SPRING-BOOT-MVC-PROJECT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:16:24.044
+!MESSAGE Classpath changed for project: SPRING-BOOT-MVC-PROJECT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:17:49.028
+!MESSAGE Classpath changed for project: Pinggy-Assignment
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:17:49.106
+!MESSAGE Classpath changed for project: Pinggy-Assignment
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:17:49.106
+!MESSAGE Boot project ADDED: Pinggy-Assignment
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:17:49.211
+!MESSAGE Classpath changed for project: Pinggy-Assignment
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:19:28.248
+!MESSAGE Classpath changed for project: SDFC-BANK-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:19:28.494
+!MESSAGE Classpath changed for project: SDFC-BANK-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:19:28.495
+!MESSAGE Boot project ADDED: SDFC-BANK-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:19:28.839
+!MESSAGE Classpath changed for project: SDFC-BANK-1
