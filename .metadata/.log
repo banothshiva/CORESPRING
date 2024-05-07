@@ -392,3 +392,27 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 18:43:32.519
 !MESSAGE Classpath changed for project: SPRINGBOOT-SECURITY
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 18:59:12.980
+!MESSAGE Classpath changed for project: SPRING-BIGGEST-NUM-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 18:59:13.577
+!MESSAGE Classpath changed for project: SPRING-BIGGEST-NUM-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 18:59:13.578
+!MESSAGE Boot project ADDED: SPRING-BIGGEST-NUM-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 18:59:13.842
+!MESSAGE Classpath changed for project: SPRING-BIGGEST-NUM-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:02:05.708
+!MESSAGE Classpath changed for project: SPRING-FULL-NAME-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:02:05.789
+!MESSAGE Classpath changed for project: SPRING-FULL-NAME-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:02:05.790
+!MESSAGE Boot project ADDED: SPRING-FULL-NAME-4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-05-07 19:02:05.909
+!MESSAGE Classpath changed for project: SPRING-FULL-NAME-4
