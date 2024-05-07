@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 3 resources" deleteContents="true" description="Delete 3 resources" element1="/SPRING-VIEW-TO-VIEW-1" element2="/SBGITPROJECTS-main" element3="/SPRINGBOOT-SECURITY" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1715087472295"/>
+</session>
